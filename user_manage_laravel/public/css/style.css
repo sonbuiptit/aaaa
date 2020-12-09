@@ -1,0 +1,46 @@
+.danhsach{
+
+    text-align: center;
+}
+.danhsach table{
+    background: aquamarine;
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+}
+.danhsach tr td{
+    font-size: 20px;
+    border: 1px solid black;
+}
+.danhsach tr td a{
+    text-decoration: none;
+}
+.danhsach tr th{
+    font-size: 20px;
+    border: 1px solid black;
+}
+h2{
+    color: #ff0048;
+}
+.danhsach button{
+    font-size: 20px;
+}
+.danhsach button a{
+    text-decoration: none;
+}
+.dangkythanhvien{
+    font-size: 20px;
+    text-align: center;
+}
+
+.dangkythanhvien table{
+
+    margin: auto;
+    border-collapse: collapse;
+}
+.dangkythanhvien button{
+    font-size: 30px;
+}
+.dangkythanhvien a{
+    text-decoration: none;
+}
